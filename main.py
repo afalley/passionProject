@@ -1,6 +1,6 @@
 
 def main():
-    print("fucdk you")
+    print("fucdk ffyou")
 
 
 if __name__ == "__main__":
